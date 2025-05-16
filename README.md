@@ -1,4 +1,4 @@
-<h1 align="center">EdTech</h1>
+<h1 align="center">Codebase</h1>
 
 <p align="center">
   <img src="https://img.shields.io/github/repo-size/b-l-i-n-d/edtech?color=green" />
