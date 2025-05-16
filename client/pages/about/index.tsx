@@ -9,7 +9,7 @@ export const getStaticProps: GetStaticProps<{
     AboutMd: string;
 }> = async () => {
     const res = await fetch(
-        "https://raw.githubusercontent.com/b-l-i-n-d/edTech/master/README.md"
+        "https://raw.githubusercontent.com/viveksharma2508/Codebase/master/README.md"
     );
     const AboutMd = await res.text();
 

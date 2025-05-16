@@ -1,11 +1,11 @@
 <h1 align="center">EdTech</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/repo-size/b-l-i-n-d/edtech?color=green" />
-  <img src="https://img.shields.io/github/last-commit/b-l-i-n-d/edtech?color=green" />
-  <img src="https://img.shields.io/github/languages/count/b-l-i-n-d/edtech?color=green" />
-  <img src="https://img.shields.io/github/languages/top/b-l-i-n-d/edtech?color=green" />
-  <img src="https://img.shields.io/github/license/b-l-i-n-d/edtech?color=green" />
+  <img src="https://img.shields.io/github/repo-size/viveksharma2508/Codebase?color=green" />
+  <img src="https://img.shields.io/github/last-commit/viveksharma2508/Codebase?color=green" />
+  <img src="https://img.shields.io/github/languages/count/viveksharma2508/Codebase?color=green" />
+  <img src="https://img.shields.io/github/languages/top/viveksharma2508/Codebase?color=green" />
+  <img src="https://img.shields.io/github/license/viveksharma2508/Codebase?color=green" />
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ## About
 
-EdTech is a web application that aims to connect students and teachers in a simple and intuitive way. It was inspired by the [LWS](www.learnwithsumit.com) platform.
+Codebase is a web application that aims to connect students and teachers in a simple and intuitive way. It was inspired by the [LWS](www.learnwithsumit.com) platform.
 
 ## Features
 
@@ -155,7 +155,7 @@ CLOUDINARY_API_SECRET='<Cloudinary API secret>'
 1. Clone this repository
 
 ```bash
-git clone https://github.com/b-l-i-n-d/edTech.git
+git clone https://github.com/viveksharma2508/Codebase.git
 ```
 
 2.  Install dependencies

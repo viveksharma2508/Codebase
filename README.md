@@ -155,7 +155,7 @@ CLOUDINARY_API_SECRET='<Cloudinary API secret>'
 1. Clone this repository
 
 ```bash
-git clone https://github.com/b-l-i-n-d/edTech.git
+git clone https://github.com/viveksharma2508/Codebase.git
 ```
 
 2.  Install dependencies
