@@ -1,0 +1,35 @@
+diff --git a/node_modules/rc-table/es/hooks/useColumns/index.js b/node_modules/rc-table/es/hooks/useColumns/index.js
+index 7cb16bd..d775ba9 100644
+--- a/node_modules/rc-table/es/hooks/useColumns/index.js
++++ b/node_modules/rc-table/es/hooks/useColumns/index.js
+@@ -6,12 +6,12 @@ import _objectSpread from "@babel/runtime/helpers/esm/objectSpread2";
+ import _objectWithoutProperties from "@babel/runtime/helpers/esm/objectWithoutProperties";
+ var _excluded = ["children"],
+   _excluded2 = ["fixed"];
+-import toArray from "rc-util/es/Children/toArray";
+-import warning from "rc-util/es/warning";
++import toArray from "rc-util/es/Children/toArray.js";
++import warning from "rc-util/es/warning.js";
+ import * as React from 'react';
+-import { EXPAND_COLUMN } from "../../constant";
+-import { INTERNAL_COL_DEFINE } from "../../utils/legacyUtil";
+-import useWidthColumns from "./useWidthColumns";
++import { EXPAND_COLUMN } from "../../constant.js";
++import { INTERNAL_COL_DEFINE } from "../../utils/legacyUtil.js";
++import useWidthColumns from "./useWidthColumns.js";
+ export function convertChildrenToColumns(children) {
+   return toArray(children).filter(function (node) {
+     return /*#__PURE__*/React.isValidElement(node);
+diff --git a/node_modules/rc-table/es/utils/legacyUtil.js b/node_modules/rc-table/es/utils/legacyUtil.js
+index 636864a..c79a421 100644
+--- a/node_modules/rc-table/es/utils/legacyUtil.js
++++ b/node_modules/rc-table/es/utils/legacyUtil.js
+@@ -1,7 +1,7 @@
+ import _objectSpread from "@babel/runtime/helpers/esm/objectSpread2";
+ import _objectWithoutProperties from "@babel/runtime/helpers/esm/objectWithoutProperties";
+ var _excluded = ["expandable"];
+-import warning from "rc-util/es/warning";
++import warning from "rc-util/es/warning.js";
+ export var INTERNAL_COL_DEFINE = 'RC_TABLE_INTERNAL_COL_DEFINE';
+ export function getExpandableProps(props) {
+   var expandable = props.expandable,
