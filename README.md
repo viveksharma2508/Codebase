@@ -1,11 +1,11 @@
 <h1 align="center">Codebase</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/repo-size/b-l-i-n-d/edtech?color=green" />
-  <img src="https://img.shields.io/github/last-commit/b-l-i-n-d/edtech?color=green" />
-  <img src="https://img.shields.io/github/languages/count/b-l-i-n-d/edtech?color=green" />
-  <img src="https://img.shields.io/github/languages/top/b-l-i-n-d/edtech?color=green" />
-  <img src="https://img.shields.io/github/license/b-l-i-n-d/edtech?color=green" />
+  <img src="https://img.shields.io/github/repo-size/viveksharma2508/Codebase?color=green" />
+  <img src="https://img.shields.io/github/last-commit/viveksharma2508/Codebase?color=green" />
+  <img src="https://img.shields.io/github/languages/count/viveksharma2508/Codebase?color=green" />
+  <img src="https://img.shields.io/github/languages/top/viveksharma2508/Codebase?color=green" />
+  <img src="https://img.shields.io/github/license/viveksharma2508/Codebase?color=green" />
 </p>
 
 <p align="center">
